@@ -1,0 +1,117 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.11rc1 (E:\py1\python.exe)" />
+      <type value="Python SDK" />
+      <homePath value="E:\py1\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://E:/py1/Lib/site-packages/paramiko-1.16.0-py2.7.egg!/" />
+            <root type="simple" url="jar://E:/py1/Lib/site-packages/ecdsa-0.13-py2.7.egg!/" />
+            <root type="simple" url="file://E:/py1/DLLs" />
+            <root type="simple" url="file://E:/py1/Lib" />
+            <root type="simple" url="file://E:/py1/Lib/lib-tk" />
+            <root type="simple" url="file://E:/py1" />
+            <root type="simple" url="file://E:/py1/Lib/site-packages" />
+            <root type="simple" url="file://E:/py1/Lib/site-packages/win32" />
+            <root type="simple" url="file://E:/py1/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://E:/py1/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/-72731679" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (E:\py3\python3.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="E:\py3\python3.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://E:/py3/Lib/site-packages/beautifulsoup4-4.5.1-py3.5.egg!/" />
+            <root type="simple" url="file://E:/py3/DLLs" />
+            <root type="simple" url="file://E:/py3/Lib" />
+            <root type="simple" url="file://E:/py3" />
+            <root type="simple" url="file://E:/py3/Lib/site-packages" />
+            <root type="simple" url="file://E:/py3/Lib/site-packages/win32" />
+            <root type="simple" url="file://E:/py3/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://E:/py3/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/1456440764" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 (C:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-762174762" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://root@192.168.0.252:22/usr/local/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://root@192.168.0.252:22/usr/local/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-701156009/-2018011811" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-701156009/-588651362" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-701156009/249572967" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-701156009/673165940" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-701156009/726551399" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-701156009/-183260405" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-701156009" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="8235b47d-14c4-4f76-abf2-72fc38af4f0f" WEB_SERVER_CONFIG_NAME="Copy of project-level server 'cmdb'" HOST="192.168.0.252" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="dfc3dfcedfcbdfd0dfdfdfc3df9bdf98df99" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/local/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.13">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-701156009/-2018011811" remote-root="/usr/local/lib/python2.7/site-packages/distribute-0.6.14-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-701156009/-588651362" remote-root="/usr/local/lib/python2.7/site-packages/pip-7.1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-701156009/249572967" remote-root="/usr/local/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-701156009/673165940" remote-root="/usr/local/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-701156009/726551399" remote-root="/usr/local/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-701156009/-183260405" remote-root="/usr/local/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
