@@ -1,8 +1,9 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="test_ssh" type="Native" />
+      <mapping pattern="thumb" type="PLAIN_TEXT" />
       <mapping ext="shell" type="PLAIN_TEXT" />
       <mapping pattern="testplatform" type="Python" />
       <mapping pattern="test_ssh.py" type="Python" />
