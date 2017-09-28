@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="8235b47d-14c4-4f76-abf2-72fc38af4f0f" name="Copy of project-level server 'cmdb'" url="http://10.10.10.10">
+      <webServer id="8235b47d-14c4-4f76-abf2-72fc38af4f0f" name="Copy of project-level server 'cmdb'" url="http://10.10.10.10:8000">
         <fileTransfer host="10.10.10.10" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
